@@ -1,4 +1,4 @@
-# VidyaVatra <sup><sub><sup><sub>(Version 1.0)</sub></sup></sub></sup>
+# [VidyaVatra](https://mohit-0918.github.io/Vidya-Vatra/) <sup><sub><sup><sub>(Version 1.0)</sub></sup></sub></sup>
 
 VidyaVatra is an interactive online collaboration platform designed for scholars and educators. It simplifies the process of hosting virtual meetings, facilitating video chats, text chats, and screen sharing. Users can seamlessly join rooms using unique passkeys, eliminating the need for complex link sharing. With a focus on simplicity and versatility, VidyaVatra aims to enhance the virtual learning and collaboration experience.
 
